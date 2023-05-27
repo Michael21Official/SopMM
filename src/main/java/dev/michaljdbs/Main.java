@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
 
+        
 //        try {
             QueryExecutor.executeQuery("INSERT INTO client (id, name, email, phone) VALUES\n" +
                     "(7,'John Smith', 'john.smith@example.com', '123-456-7890'),\n" +

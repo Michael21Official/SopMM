@@ -1,5 +1,6 @@
 package dev.michaljdbs;
 
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
